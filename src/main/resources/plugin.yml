@@ -1,0 +1,5 @@
+name: Skills
+version: '1.0.7'
+main: com.github.spacemex.skills.Skills
+api-version: '1.21'
+depend: [SkillApi]
